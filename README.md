@@ -29,6 +29,22 @@ It will have an infrared sensor to play/stop music by swiping the hand over it.
 - Able to recognize the heading of the cube: you can get the angle of the CUBE
 - Able to recognize on which side the CUBE is on
 
+### BOM  
+
+- 1 x Arduino/Genuino 101
+- 4 x Neopixel LEDs
+- 1 x IR emitter
+- 1 x IR receiver
+- 1 x Switch
+- 1 x 9V battery
+- Lasercut and printed parts (with the material you prefer)
+- Hot glue
+- 20 M3 nuts
+- 20 M3 1 cm screws
+- Vinyl for stickers
+
+On this repo there are also eagle files for doing an (optional) breakout board for building this project.
+
 ## BLE Reference
 
 ### Mode control, read/write
